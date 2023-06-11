@@ -25,7 +25,7 @@ function App() {
         < Router>
           <Navbar />
           <Routes>
-            <Route exact path='/' element={<Home />} />
+            <Route exact path='/async-developers' element={<Home />} />
             <Route exact path='/Contact' element={<Contact />} />
             <Route exact path='/About' element={<About />} />
             <Route exact path='/Course' element={<Course />} />
