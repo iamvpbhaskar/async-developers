@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/async-developers/static/css/main.85c99905.css",
-    "main.js": "/async-developers/static/js/main.d424c5fe.js",
+    "main.js": "/async-developers/static/js/main.34e7b6b9.js",
     "static/js/787.60e79a5c.chunk.js": "/async-developers/static/js/787.60e79a5c.chunk.js",
     "static/media/Fauget.gif": "/async-developers/static/media/Fauget.61943ef4f3680677f1df.gif",
     "static/media/www.asyncdevelopers.com.jpg": "/async-developers/static/media/www.asyncdevelopers.com.1f068e5f561d9446a86b.jpg",
@@ -15,11 +15,11 @@
     "static/media/whatsa.png": "/async-developers/static/media/whatsa.98454dc49e1b8c99840d.png",
     "index.html": "/async-developers/index.html",
     "main.85c99905.css.map": "/async-developers/static/css/main.85c99905.css.map",
-    "main.d424c5fe.js.map": "/async-developers/static/js/main.d424c5fe.js.map",
+    "main.34e7b6b9.js.map": "/async-developers/static/js/main.34e7b6b9.js.map",
     "787.60e79a5c.chunk.js.map": "/async-developers/static/js/787.60e79a5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85c99905.css",
-    "static/js/main.d424c5fe.js"
+    "static/js/main.34e7b6b9.js"
   ]
 }
