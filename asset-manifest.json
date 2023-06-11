@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/async-developers/static/css/main.85c99905.css",
+    "main.js": "/async-developers/static/js/main.d424c5fe.js",
+    "static/js/787.60e79a5c.chunk.js": "/async-developers/static/js/787.60e79a5c.chunk.js",
+    "static/media/Fauget.gif": "/async-developers/static/media/Fauget.61943ef4f3680677f1df.gif",
+    "static/media/www.asyncdevelopers.com.jpg": "/async-developers/static/media/www.asyncdevelopers.com.1f068e5f561d9446a86b.jpg",
+    "static/media/www.asyncdevelopers.com (1).jpg": "/async-developers/static/media/www.asyncdevelopers.com (1).7bcd9e3238024806b2c9.jpg",
+    "static/media/Async Developers.jpg": "/async-developers/static/media/Async Developers.9d103508147ca7755cbe.jpg",
+    "static/media/code.jpg": "/async-developers/static/media/code.2caf9489694b160fce97.jpg",
+    "static/media/async.png": "/async-developers/static/media/async.22593751b92dce3bf542.png",
+    "static/media/logo.png": "/async-developers/static/media/logo.f8ca425819db845314d5.png",
+    "static/media/iphonelogo.png": "/async-developers/static/media/iphonelogo.09d3be1597511d536f25.png",
+    "static/media/youi.png": "/async-developers/static/media/youi.4ed521b213cf5e84ced1.png",
+    "static/media/whatsa.png": "/async-developers/static/media/whatsa.98454dc49e1b8c99840d.png",
+    "index.html": "/async-developers/index.html",
+    "main.85c99905.css.map": "/async-developers/static/css/main.85c99905.css.map",
+    "main.d424c5fe.js.map": "/async-developers/static/js/main.d424c5fe.js.map",
+    "787.60e79a5c.chunk.js.map": "/async-developers/static/js/787.60e79a5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c99905.css",
+    "static/js/main.d424c5fe.js"
+  ]
+}
